@@ -1,0 +1,38 @@
+.cont{
+padding-left: 20px; 
+}
+.nav{
+  background: #054c14;
+}
+boody{
+    background-color:grey;
+}
+.back{
+    background: none;
+}
+ul li{
+    float: left;
+    margin: 30px;
+    font-size: 24px;
+    list-style-type: none;
+}
+.for{
+    margin: 32px;
+    border-radius:6px;
+}
+.navbar{
+    display: grid;
+    grid-template-columns: 70%, 30%;
+}
+.col-sm-6{
+    display: grid;
+    grid-template-columns: 70%, 30%;
+
+}
+.faa{
+    background: #eee;
+    size: 24px;
+}
+.col-sm-3{
+    height: 80%;
+}
